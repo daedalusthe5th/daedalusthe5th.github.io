@@ -1,9 +1,32 @@
 <HTML>
 <HEAD> <TITLE>Nathan Kim :)</TITLE> </HEAD>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
+</head>
 <BODY>
   <IMG SRC="https://media.tenor.com/SDwGg31pp4AAAAAC/maxwell-the-cat-maxwell.gif">
   <br> My website is still in development, for now enjoy this cat.
   <!-- 能看到的人or noah and jeremy, cnmd。-->
-  <iframe src="https://docs.google.com/document/d/e/2PACX-1vQP5vhh1KD3myNBeEUmg6CuPwhwjcYWoYgHP_6XKPeYyKAV4lGyMkveNNQhT6puJdAUnqmG8HXGn6GO/pub?embedded=true"></iframe>
+  <br>  
+<div class="container"> 
+  <iframe class="responsive-iframe" src="https://docs.google.com/document/d/e/2PACX-1vQP5vhh1KD3myNBeEUmg6CuPwhwjcYWoYgHP_6XKPeYyKAV4lGyMkveNNQhT6puJdAUnqmG8HXGn6GO/pub?embedded=true"></iframe>
+</div>
 </BODY>
 </HTML>
