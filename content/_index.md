@@ -5,7 +5,7 @@ draft = false
 
 Hi, I'm Nathan. I'm an undergrad student at Purdue studying Cybersecurity, Network Engineering, and Forensic Science. I first got into cybersecurity installing VPNs in China in elementary school (around 2016) and jailbreaking iPhones soon after. I quickly moved onto Linux development in highschool and am now focusing on digital forensics.
 
-Currently, I'm conducting research with the Purdue School of Computer and Information Technology conducting data analysis on student interaction with generative AI. I'm also an ambassador for both Purdue's  Center for Education and Research in Information Assurance and Security (CERIAS) and the Polytechnic Institute, so feel free to reach out to me if you have any questions.
+Currently, I'm conducting research with the Purdue School of Computer and Information Technology and the AKRaNLU lab in topics having to do with digital forensics, human-computer interaction and natural language processing. I'm also an ambassador for both Purdue's Center for Education and Research in Information Assurance and Security (CERIAS) and the Polytechnic Institute, so feel free to reach out to me if you have any questions.
 
 
 Contact me at nathankimchi22 [at] gmail [dot] com.
