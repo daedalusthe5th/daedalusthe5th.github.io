@@ -33,7 +33,7 @@ theme = 'terminal'
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -46,11 +46,11 @@ theme = 'terminal'
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  Toc = false # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
+  TocTitle = "Table of Contents" # default
 
 
 [params.twitter]
@@ -64,10 +64,10 @@ theme = 'terminal'
   [languages.en]
     languageName = "English"
     title = "Nathan Kim"
-    owner = ""
+    owner = "Nathan Kim"
     keywords = ""
-    copyright = ""
+    copyright = "2024"
 
     [languages.en.params.logo]
       logoText = "Nathan Kim"
-      logoHomeLink = "/"
+      logoHomeLink = "https://nathankim.net"
