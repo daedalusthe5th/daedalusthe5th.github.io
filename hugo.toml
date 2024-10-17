@@ -15,7 +15,7 @@ theme = 'terminal'
   showMenuItems = 0
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector = true
 
   # set theme to full screen width
   fullWidthTheme = false
@@ -33,7 +33,7 @@ theme = 'terminal'
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon = "favicon.ico"
+  # favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -46,7 +46,7 @@ theme = 'terminal'
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  Toc = false # default
+  Toc = true # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
@@ -63,10 +63,10 @@ theme = 'terminal'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Nathan Kim"
+    title = "Nathan Kim's Webpage (English)"
     owner = "Nathan Kim"
     keywords = ""
-    copyright = "2024"
+    copyright = "Copyright 2024 by Nathan Kim. All Rights Reserved."
 
     [languages.en.params.logo]
       logoText = "Nathan Kim"
